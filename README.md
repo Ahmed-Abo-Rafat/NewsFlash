@@ -1,7 +1,7 @@
 # NewsFlash
 It is a responseve Blog website have a Theme color feature to toggle color from dark mode to light mode and another feauter like search button and then the website consists of two pages first, Home pages consists of section for articles and sidebar for trending news and then we have a smooth slider for qick read section and other section for older post, poppular tag section and others. Second page, it is post page to show articles about IS VR the features.
 
-## Website Link:  
+## Live Site:  
    - Link: https://ahmed-abo-rafat.github.io/NewsFlash/
 
 ## Technologies
