@@ -19,5 +19,5 @@ Project is created with:
    - Theme color: To toggle website color fom dark mode to light mode.
    - Local Storage: use js local storage to save color wbsite.
    - Search Button: we make popup with js when click in search button. 
-   - Css variables: to make change in website make ease and productivity>
+   - Css variables: to make change in website make ease and productivity.
    - Reusable classes: use reusable clase like (container - section - d-grid - etec..) to void repeat code in my website.
